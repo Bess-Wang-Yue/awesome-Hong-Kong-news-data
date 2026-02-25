@@ -33,7 +33,7 @@
 - **Update Frequency:** September annually
 - **Format:** pdf
 - **Description:** Various data on Hong Kong's catering industry
-- **Direct Link:** [Click Here]([https://www.censtatd.gov.hk/en//web_table.html?id=130-06606A](https://app7.legco.gov.hk/rpdb/tc/uploads/2025/ISSH/ISSH29_2025_20250910_tc.pdf))
+- **Direct Link:** [Click Here](https://app7.legco.gov.hk/rpdb/tc/uploads/2025/ISSH/ISSH29_2025_20250910_tc.pdf)
 - **Added By:** Bess ([BessWANG](https://github.com/BessWang2016))
 - **Stories in Action:** 
-立會研究│中餐館收益較疫前跌24%遇萎縮挑戰　2類食肆逆市急擴張  ([NewsLink]([https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral](https://www.hk01.com/研數所/60275543/立會研究-中餐館收益較疫前跌24-遇萎縮挑戰-2類食肆逆市急擴張?utm_source=01articlecopy&utm_medium=referral)))
+立會研究│中餐館收益較疫前跌24%遇萎縮挑戰　2類食肆逆市急擴張  ([NewsLink](https://www.hk01.com/研數所/60275543/立會研究-中餐館收益較疫前跌24-遇萎縮挑戰-2類食肆逆市急擴張?utm_source=01articlecopy&utm_medium=referral))
