@@ -26,4 +26,14 @@
 - **Stories in Action:** 
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
+
+
+### 2023 Interesting Findings from the “Hongkongers’ Sense of Security on Savings” Survey
+- **Provider:** Hong Kong Deposit Protection Board
+- **Update Frequency:** March annually
+- **Format:** pdf
+- **Description:** To understand the behavioral habits of people aged 18 and above in Hong Kong, and to study the behavioral habits of quasi-retirees aged 50 to 65.
+- **Direct Link:** [Click Here](https://www.dps.org.hk/sc/download/pdf/annual_report_2024/s_06_scheme_operations.pdf)
+- **Added By:** Ci Minghan
 - **Stories in Action:** 
+港人平均月儲萬元　存款達7位數字才感安全　即看你儲錢算多定少 | 香港01  ([NewsLink](https://www.hk01.com/article/60303832?utm_source=01articlecopy&utm_medium=referral))
