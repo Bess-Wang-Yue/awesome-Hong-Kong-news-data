@@ -38,3 +38,14 @@
 - **Added By:** LIUYINGXI ([LIUYINGXI214](https://github.com/LIUYINGXI214))
 - **Stories in Action:** 
 失業綜援1.6萬宗較疫前增29%　平均受助8.3年　僅3%能脫離綜援網 ([NewsLink](https://www.hk01.com/article/60283550?utm_source=01articlecopy&utm_medium=referral))
+
+### 2025 The latest median salary in Hong Kong
+- **ID:** 210-06316A
+- **Provider:** Census and Statistics Department
+- **Update Frequency:** Feb/March annually
+- **Format:** csv
+- **Description:** Median monthly employment income of employed individuals classified by their main job industry and gender (excluding foreign domestic helpers)
+- **Direct Link:** [Click Here](https://www.censtatd.gov.hk/tc/web_table.html?id=210-06316A)
+- **Added By:** LIUYINGXI ([LIUYINGXI214](https://github.com/LIUYINGXI214))
+- **Stories in Action:** 
+最新人工中位數│月薪呢個數高過一半打工仔！最新各行業職級人工 ([NewsLink](https://www.hk01.com/article/60314753?utm_source=01articlecopy&utm_medium=referral))
