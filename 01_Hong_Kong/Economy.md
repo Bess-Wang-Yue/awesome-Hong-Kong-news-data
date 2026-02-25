@@ -27,3 +27,16 @@
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
 - **Stories in Action:** 
+
+
+### Property Market Review 2025
+- **ID:** Property prices rebounded 
+- **Provider:** Rating and Valuation Department
+- **Update Frequency:** Annually
+- **Format:** XLS
+- **Description:** Various unit price indices in Hong Kong from 2014-2025
+- **Direct Link:** [Click Here](https://www.rvd.gov.hk/tc/publications/property_market_statistics.html)
+- **Added By:** Yu Ziqi ([Yu Ziqi](https://github.com/YuZiqi2010))
+- **Stories in Action:**
+- 樓市回顧2025│樓價反彈10大藍籌屋苑8升2跌　港島豪宅盤仍跌逾10%
+([News link](https://www.hk01.com/article/60305907?utm_source=01articlecopy&utm_medium=referral))
