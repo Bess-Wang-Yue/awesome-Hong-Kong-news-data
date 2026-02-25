@@ -27,3 +27,13 @@
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
 - **Stories in Action:** 
+### Hong Kong Death registration figures
+- **ID:** coroner_report_june2024.pdf
+- **Provider:** Hong Kong Judiciary
+- **Update Frequency:**  annually
+- **Format:** CSV / XLS
+- **Description:** Hong Kong Death registration figures and their death reasons from 2001 to 2024, including suicides.
+- **Direct Link:** [Click Here](https://www.judiciary.hk/doc/en/publications/coroner_report_oct2025.pdf)
+- **Added By:** Ivy ([Liu Ho Yin](https://github.com/hoyin360))
+- **Stories in Action:** 
+港自殺率達15年來高位　超出全球水平　年輕男性自殺率3連升 | 香港01 ([NewsLink](https://www.hk01.com/article/60275942?utm_source=01articlecopy&utm_medium=referral))
