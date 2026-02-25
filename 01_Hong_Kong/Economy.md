@@ -27,3 +27,13 @@
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
 - **Stories in Action:** 
+### 全球智商排名2026│前3均屬亞洲平均IQ咁高！西歐美洲國家未入前10
+- **ID:** 2026 年各國平均智商排名
+- **Provider:**  International IQ Test
+- **Update Frequency:** Feb/March annually
+- **Format:** pdf
+- **Description:** 2026 Global Average IQ Rankings by International IQ Test, covering 1.21M 2025 test-takers (avg. 100, SD 15). South Korea, China and Japan lead the list; regions with <100 participants are excluded, with 84.8% of regions seeing IQ changes within 2 points YoY.
+- **Direct Link:** [Click Here](https://international-iq-test.com/zh-Hant/test/IQ_by_country)
+- **Added By:** ZHOU Ju ([ZHOUJu](https://github.com/Juu-Z))
+- **Stories in Action:** 
+全球智商排名2026│前3均屬亞洲平均IQ咁高！西歐美洲國家未入前10 ([NewsLink]( https://www.hk01.com/article/60310487?utm_source=01articlecopy&utm_medium=referral ))
