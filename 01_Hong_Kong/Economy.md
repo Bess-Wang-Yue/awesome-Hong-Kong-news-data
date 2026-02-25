@@ -34,7 +34,7 @@
 - **Update Frequency:** monthly 15th
 - **Format:** pdf
 - **Description:** The monthly distribution of unemployment assistance funds in Hong Kong and the number of cases involving the receipt of these funds
-- **Direct Link:** [Click Here](https://www.censtatd.gov.hk/en//web_table.html?id=130-06606A](https://app7.legco.gov.hk/rpdb/tc/uploads/2025/ISSH/ISSH34_2025_20250926_tc.pdf)
+- **Direct Link:** [Click Here](https://app7.legco.gov.hk/rpdb/tc/uploads/2025/ISSH/ISSH34_2025_20250926_tc.pdf)
 - **Added By:** LIUYINGXI ([LIUYINGXI214](https://github.com/LIUYINGXI214))
 - **Stories in Action:** 
 失業綜援1.6萬宗較疫前增29%　平均受助8.3年　僅3%能脫離綜援網 ([NewsLink](https://www.hk01.com/article/60283550?utm_source=01articlecopy&utm_medium=referral))
