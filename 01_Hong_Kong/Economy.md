@@ -26,4 +26,19 @@
 - **Stories in Action:** 
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
+- **Stories in Action:**
+
+
+
+# Hong Kong Economy
+
+- **ID:** 2025Quarter4EmploymentMedianIncome
+- **Provider:** HK01
+- **Update Frequency:** Quarterly
+- **Format:** xlsx
+- **Description:** 2024 and 2025 median monthly earnings of Hong Kong employed persons(excluding FDHs), disaggregated by industry and sex.
+- **Direct Link:** [Click Here](https://www.censtatd.gov.hk/tc/web_table.html?id=210-06316A)
+- **Added By:** LI Jiawei ([LI Jiawei](https://github.com/LiJiaWei-Ivy))
 - **Stories in Action:** 
+最新人工中位數│月薪呢個數高過一半打工仔！最新各行業職級人工
+([News link](https://www.hk01.com/article/60314753?utm_source=01articlecopy&utm_medium=referral))
