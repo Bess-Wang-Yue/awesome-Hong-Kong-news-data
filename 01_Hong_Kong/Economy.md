@@ -27,3 +27,16 @@
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
 - **Stories in Action:** 
+# Hong Kong Education
+
+- **ID:** 
+- **Provider:** 瑞銀《瑞銀億萬富豪報告2025》
+- **Update Frequency:** Annually
+- **Format:** pdf
+- **Description:** 瑞銀：亞太億萬富豪增長冠全球　本港增至76人　僅66%白手起家
+- **Direct Link:** [Click Here](香港01 https://www.hk01.com/article/60307046?utm_source=01articlecopy&utm_medium=referral)
+- **Added By:** HU Mudi ([Your Github link](https://github.com/BessWang2016))
+- **Stories in Action:** 
+瑞銀：亞太億萬富豪增長冠全球　本港增至76人　僅66%白手起家
+原文網址: 瑞銀：亞太億萬富豪增長冠全球　本港增至76人　僅66%白手起家 | 香港01 https://www.hk01.com/article/60307046?utm_source=01articlecopy&utm_medium=referral
+
