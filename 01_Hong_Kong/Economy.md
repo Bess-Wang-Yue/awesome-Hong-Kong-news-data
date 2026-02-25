@@ -26,4 +26,14 @@
 - **Stories in Action:** 
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
+
+### Hong Kong Immigration
+- **ID:** 2025 National Day Holiday Inbound and Outbound Traffic
+- **Provider:** Hong Kong Immigration Department
+- **Update Frequency:** Annually
+- **Format:** CSV / XLS
+- **Description:** Hong Kong's Cross-Border Travrl statistics during the 2025 National Day golden week holiday
+- **Direct Link:** [Click Here](https://www.immd.gov.hk/hks/facts/passenger-statistics-menu.html)
+- **Added By:** Bess ([Yang Han](https://github.com/Yanghanhan1011))
 - **Stories in Action:** 
+十一黃金周｜首日近23.3萬內地旅客訪港　較去年同日年增5% ([NewsLink](https://www.hk01.com/article/60226458?utm_source=01articlecopy&utm_medium=referral ))
