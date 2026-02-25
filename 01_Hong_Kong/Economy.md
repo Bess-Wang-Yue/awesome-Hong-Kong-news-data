@@ -27,3 +27,17 @@
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
 - **Stories in Action:** 
+
+
+# Hong Kong stock market
+
+- **ID:** Hang Seng Historical Data 
+- **Provider:** Investing.com
+- **Update Frequency:** Annually
+- **Format:** CSV
+- **Description:** The number of points the Hang Seng Index rose or fell from 1987 to 2025
+- **Direct Link:** [Click Here](https://www.investing.com/indices/hang-sen-40-historical-data))
+- **Added By:** Zhang Xuan ([zxuan0065](https://github.com/zxuan0065-debug))
+- **Stories in Action:** 
+恒指2025│1年飙5570点　连升两年　 有机构料2026年或高见36500点
+  ([NewsLink](https://global.hk01.com/article/60308534?utm_source=01articlecopy&utm_medium=referral))
