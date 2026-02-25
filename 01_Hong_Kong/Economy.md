@@ -33,7 +33,7 @@
 
 - **ID:** Hang Seng Historical Data 
 - **Provider:** Investing.com
-- **Update Frequency:** Annually
+- **Update Frequency:** Annually 
 - **Format:** CSV 
 - **Description:** The number of points the Hang Seng Index rose or fell from 1987 to 2025
 - **Direct Link:** [Click Here](https://www.investing.com/indices/hang-sen-40-historical-data))
