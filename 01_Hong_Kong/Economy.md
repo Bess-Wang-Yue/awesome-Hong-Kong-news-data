@@ -27,3 +27,16 @@
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
 - **Stories in Action:** 
+
+### Hong Kong Occupational Safety
+
+- **ID:** 2025OccupationalFatalityStats
+- **Provider:** Industrial Victims Rights Association (工業傷亡權益會)
+- **Update Frequency:** Annually
+- **Format:** HTML / Report
+- **Description:** Statistics on occupational fatalities in 2025, recording 118 cases (55% increase year-on-year), including 16 deaths in Wang Fuk Court fire.
+- **Direct Link:** [Click Here](https://www.ariav.org.hk/，https://www.ariav.org.hk/files/pressRelease/Review_2025.pdf)
+- **Added By:** XuHaoze7890 ([XuHaoze7890](https://github.com/XuHaoze7890))
+- **Stories in Action:**
+今年118宗職業死亡按年增55%　16人死於宏福苑大火　包括10名外傭
+( [News link](https://www.hk01.com/article/60307138?utm_medium=referral&utm_source=01appshare) )
