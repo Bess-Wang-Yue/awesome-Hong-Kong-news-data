@@ -26,4 +26,15 @@
 - **Stories in Action:** 
 香港家庭月入中位數達X萬元　3年增3千　扣除通脹仍未及疫前水平 ([NewsLink](https://www.hk01.com/article/60279609?utm_source=01articlecopy&utm_medium=referral))
 
+
+
+### Hong Kong Suicide Rate
+- **ID:** 2024 suicide rate
+- **Provider:** The Hong Kong Jockey Club Centre for Suicide Research and Prevention (CSRP) 
+- **Update Frequency:** annually
+- **Format:** CSV / XLS
+- **Description:** Median monthly household income by household size (excluding foreign domestic helpers)
+- **Direct Link:** [Click Here](https://csrp.hku.hk/statistics/)
+- **Added By:** Liu Ho Yin, Ivy ([Ivy Liu](https://github.com/hoyin360))
 - **Stories in Action:** 
+港自殺率達15年來高位　超出全球水平　年輕男性自殺率3連升  ([NewsLink](https://www.hk01.com/article/60275942?utm_source=01articlecopy&utm_medium=referral))
